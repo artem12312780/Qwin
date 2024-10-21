@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q win</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать в казино Qwin</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">О нас</a></li>
+                <li><a href="#games">Игры</a></li>
+                <li><a href="#contact">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>О нас</h2>
+            <p>Казино Qwin предлагает лучшие игры и услуги для своих клиентов.</p>
+        </section>
+
+        <section id="games">
+            <h2>Игры</h2>
+            <p>Мы предлагаем широкий выбор азартных игр, покер и блэкджек.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Контакты</h2>
+            <p>Email: contact@qwin.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Казино Qwin. Все права защищены.</p>
+    </footer>
+</body>
+</html>
